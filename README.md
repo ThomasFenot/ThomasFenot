@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, i'm Thomas 👋 
+[![Banner](https://backend.codecrafters.io/progress/http-server/7a2556e6-74e9-4a58-95a7-ee0cf37d412e)](https://codecrafters.io/github-banner)
 
 <!--
 **ThomasFenot/ThomasFenot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
