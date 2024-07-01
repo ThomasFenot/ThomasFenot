@@ -9,8 +9,8 @@
 
 ### Currently Working on :
 - **<sub>${\textsf{\color{green}Colab}}$</sub> Herezia:** Herezia is a W.I.P TCG wirtten with Next.JS, Mono repo with NX, Clean Architecture, Nest, socket.io...
-- **<sub>${\textsf{\color{green}Colab}}$</sub> <sub>${\textsf{\color{lightblue}Very early}}$</sub> Sleek**: Sleek is a W.I.P programming language written in C++. The objective of this repository is mostly to learn how a language and its components work (lexer, parser, evaluator...).
-- - **<sub>${\textsf{\color{red} Solo}}$</sub> <sub>${\textsf{\color{Blue} CodeCrafters}}$</sub> <sub>${\textsf{\color{lightblue}Very early}}$</sub> Build your own Git**:
+- **<sub>${\textsf{\color{green}Colab}}$</sub> <sub>${\textsf{\color{lightblue}Very early}}$</sub> Sleek:** Sleek is a W.I.P programming language written in C++. The objective of this repository is mostly to learn how a language and its components work (lexer, parser, evaluator...).
+- **<sub>${\textsf{\color{red} Solo}}$</sub> <sub>${\textsf{\color{Blue} CodeCrafters}}$</sub> <sub>${\textsf{\color{lightblue}Very early}}$</sub> Build your own Git:** Once again on CodeCrafters, i'm starting to write my own Git to fully understand how it works.
 
 ### Finished work :
 - **<sub>${\textsf{\color{red} Solo}}$</sub> <sub>${\textsf{\color{Blue} CodeCrafters}}$</sub> Build your own HTTP Server:** Following the different chapters on Codecrafters, I wrote my own HTTP server to better understand how it works.
