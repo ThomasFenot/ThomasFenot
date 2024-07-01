@@ -1,17 +1,20 @@
-## Hi there, i'm Thomas 👋 
-[![Banner](https://backend.codecrafters.io/progress/http-server/7a2556e6-74e9-4a58-95a7-ee0cf37d412e)](https://codecrafters.io/github-banner)
+## Welcome ! 
+### I'm Thomas, a passionate and enthusiastic developer with a passion for technology and learning. Here, you'll find a collection of my projects and contributions.
+#### About Me
+- **Name:** Thomas Fenot
+- **Experience:** 7 years of .NET development and more
+- **Skills:** .NET, C#, ASP.NET, JS/TS, React, Next...
+- **Learning:** Always exploring new technologies and improving my skills
+- **Passion:** Experimenting, solving problems and continuous learning
 
-<!--
-**ThomasFenot/ThomasFenot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently Working on :
+- **<sub>${\textsf{\color{green}Colab}}$</sub> Herezia:** Herezia is a W.I.P TCG wirtten with Next.JS, Mono repo with NX, Clean Architecture, Nest, socket.io...
+- **<sub>${\textsf{\color{green}Colab}}$</sub> <sub>${\textsf{\color{lightblue}Very early}}$</sub> Sleek**: Sleek is a W.I.P programming language written in C++. The objective of this repository is mostly to learn how a language and its components work (lexer, parser, evaluator...).
 
-Here are some ideas to get you started:
+### Finished work :
+- **<sub>${\textsf{\color{red} Solo}}$</sub> <sub>${\textsf{\color{Blue} CodeCrafters}}$</sub> Build your own HTTP Server:** Following the different chapters on Codecrafters, I wrote my own HTTP server to better understand how it works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Banner](https://backend.codecrafters.io/progress/http-server/7a2556e6-74e9-4a58-95a7-ee0cf37d412e)](https://github.com/ThomasFenot/codecrafters-http-server-csharp)
+
+
+Happy coding!
